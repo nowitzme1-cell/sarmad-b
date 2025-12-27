@@ -1,0 +1,8 @@
+{
+  "name": "n8n Bridge Dashboard",
+  "description": "A simple dashboard to configure and test your Flask-to-n8n connection bridge.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
